@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on dashboard development and insight projects
 - 📫 How to reach me: linkedin.com/in/bryn-vincent-venables
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact:
+<!-- - ⚡ Fun fact: -->
 
 <!---
 brynvv/brynvv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
