@@ -2,9 +2,9 @@
 - 👀 I’m interested in Data Visualisation & Analysis - experienced with Tableau, SQL & Alteryx
 - 🌱 I’m currently learning Python for Machine Learning and revisiting Power BI for Data Viz
 - 💞️ I’m looking to collaborate on dashboard development and insight projects
-- 📫 How to reach me ...
+- 📫 How to reach me: linkedin.com/in/bryn-vincent-venables
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact:
 
 <!---
 brynvv/brynvv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
