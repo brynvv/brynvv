@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brynvv
-- 👀 I’m interested in Data Visualisation & Analysis - experienced with Tableau, SQL & Alteryx
-- 🌱 I’m currently learning Python for machine learning and data viz with Dash
+- 👀 I’m interested in data visualisation & analysis with Tableau, SQL, Alteryx & Python
+- 🌱 I’m currently learning machine learning with Python and data viz with Plotly & Dash
 - 💞️ I’m looking to collaborate on dashboard development and insight projects
 - 📫 How to reach me: linkedin.com/in/bryn-vincent-venables
 - 😄 Pronouns: He/Him
