@@ -2,7 +2,7 @@
 - 👀 I’m interested in data visualisation & analysis with Tableau, SQL, Alteryx & Python
 - 🌱 I’m currently learning machine learning with Python and data viz with Plotly & Dash
 - 💞️ I’m looking to collaborate on dashboard development and insight projects
-- 📫 How to reach me: linkedin.com/in/bryn-vincent-venables
+- 📫 How to reach me: linkedin.com/in/bryn-venables
 - 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: -->
 
