@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brynvv
-- 👀 I’m interested in data visualisation & analysis with Tableau, Power BI, SQL, Alteryx & Python
-- 🌱 I’m currently learning data engineering for analysts with learndataengineering.com
-- 💞️ I’m looking to collaborate on business intelligence and insight projects!
+- 👀 I do data visualisation & analysis with SQL, Python, Power BI, Tableau & Alteryx
+- 🌱 I’m looking to develop my skills in data science and engineering
+- 💞️ Whether that's ETL and pipeline development, or building ML models - I'm interested!
 - 📫 How to reach me: linkedin.com/in/bryn-venables
 - 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: -->
