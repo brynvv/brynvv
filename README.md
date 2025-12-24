@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @brynvv
-- 👀 Data transformation with SQL, Power Query & Alteryx, visualisation with Power BI & Tableau, and operational process automation with Python
-- 🌱 I'm interested in data engineering and ML
+-   Data transformation with SQL, Power Query & Alteryx
+-   Visualisation with Power BI & Tableau
+-   Analysis & process automation with Python
 - 📫 How to reach me: linkedin.com/in/bryn-venables
 - 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: -->
